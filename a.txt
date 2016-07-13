@@ -7,3 +7,5 @@ Hello, I am shunyao!
 Thank you !
 
 Another change to demo merge.
+
+Changes happened at master branch.
