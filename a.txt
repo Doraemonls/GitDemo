@@ -17,3 +17,5 @@ Another change in dev branch.
 String for demo added files.
 
 Hello from another world.
+
+Welcome to Dora class.
