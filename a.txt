@@ -13,3 +13,7 @@ Changes happened at master branch.
 New changes in dev branch.
 
 Another change in dev branch. 
+
+String for demo added files.
+
+Hello from another world.
