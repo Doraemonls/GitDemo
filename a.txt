@@ -1,3 +1,5 @@
+A modification on branch master.
+
 This is a third line.
 
 This is my third modification.
