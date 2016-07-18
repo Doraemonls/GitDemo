@@ -6,6 +6,7 @@ This is my third modification.
 This is the second test.
 
 This is an adding test.
+This is a modification on branch 'dev'.
 
 This is a demo text.
 
@@ -20,4 +21,14 @@ Another change to demo merge.
 Changes happened at master branch.
 
 New changes in dev branch.
+<<<<<<< HEAD
+=======
+
+Another change in dev branch. 
+
+String for demo added files.
+
+Hello from another world.
+
+>>>>>>> dev
 Welcome to Dora class.
